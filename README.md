@@ -1,7 +1,7 @@
 # Sales-Insight-Data-analysis-Project-In-Tableau
 This project will give you a feel of how data analysis projects are executed in big companies. Our case study is based on a computer hardware business which is facing challenges in dynamically changing market. we will plug MySQL database with tableau. we will directly use mysql database. We will do sales analysis.
 
-You can See the [Sales Insight Analysis Project](https://public.tableau.com/views/SalesInsight_16339747843400/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+You can See the [Sales Insight Analysis Data Project](https://public.tableau.com/views/SalesInsight_16339747843400/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Instructions to setup mysql on your local computer
 1. Follow step in this Documentation to install mysql on your local computer [MySQL Installation Guide](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/)
